@@ -2,7 +2,9 @@
 
 ### Overview
 
-This data analysis project aims to provide insights into the admissions of Lithuanian addiction center from 2016. By analyzing various aspects of the patient's data I aimed to identify trends and gain a deeper understanding of the severity of drug abuse (including alcohol, tobacco and narcotics) in Lithuania.
+This data analysis project aims to provide insights into the admissions of Lithuanian addiction center from 2016. By analyzing various aspects of the patient's data I aimed to identify trends and gain a deeper understanding of the severity of drug abuse (including alcohol, tobacco and narcotics) in Lithuania 
+
+[Addiction_center.pdf](https://github.com/szubaviciute/Addcition-Center/files/14936464/Addiction_center.pdf)
 
 ### Data sources
 
